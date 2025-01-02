@@ -72,3 +72,11 @@ int main()
 
     return 0;
 }
+
+/*
+
+Use dot operator (.) to access members of a non-pointer object (a.data, a.next).
+Use arrow operator (->) to access members of a pointer to an object (ptr->data, ptr->next).
+If you mistakenly use a->data on a non-pointer object, you will get a compilation error.
+
+*/
