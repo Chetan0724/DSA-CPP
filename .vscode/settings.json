@@ -45,6 +45,8 @@
         "random": "cpp",
         "system_error": "cpp",
         "type_traits": "cpp",
-        "cinttypes": "cpp"
-    }
+        "cinttypes": "cpp",
+        "climits": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }
